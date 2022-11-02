@@ -37,22 +37,13 @@ Introduction
 ------------
 Feature Details
 ---------------
-* Features supported in this release
+* Features supported & Celadon Upstreamed fixes in this release
 
-                * RTC (Real Time Clock) - Android Time keeping
-                * Alarm Virtualization
-                * Support wipe Google Factory Reset protection credentials on reset
-                * Support secure data erase on dedicated partition
-                * Use mesa i965 driver on CML and EHL
-
-        * Celadon Upstreamed fixes
-
-                * CiV suspend/resume stability
-                * Update health values for CiV battery
-                * Enable zram swap for device having <= 4G RAM
-                * Enabled GuC/HuC firmware
-                * Support EHL platform
-                * Support Sensor enable/disable build configuration
+                * AOSP Version upgraded to r_46
+				* Chromium Guest Kernel upgraded to 5.4.150
+				* Security Patch & ASP updated to “September '22”
+                * Qemu version kept in 4.2 same upgraded in celadon release to 6.0
+                * Android VM Booting issue
 
 Known issues
 ------------
@@ -110,7 +101,7 @@ Validation results
 Stable Releases (IoT) build running in GVT-d mode has been validated on Comet Lake(CML), Tiger Lake(TGL), and Elkhart Lake(EHL) Intel® platforms in the following function domains. Validation cycles are performed on GMS user signed widevine enabled image as required by google certification requirements
 
 .. figure:: stable-release_iot/images/sep22_Validation_Result2.png
-    :align: center
+    :align: right
     :width: 750px 
 
 
