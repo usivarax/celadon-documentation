@@ -101,8 +101,8 @@ Validation results
 Stable Releases (IoT) build running in GVT-d mode has been validated on Comet Lake(CML), Tiger Lake(TGL), and Elkhart Lake(EHL) Intel® platforms in the following function domains. Validation cycles are performed on GMS user signed widevine enabled image as required by google certification requirements
 
 .. figure:: stable-release_iot/images/sep22_Validation_Result2.png
-    :align:: right 
-    :width:: 750px
+    :align: right 
+    :width: 750px
 
 CIV_02.22.01.12_A11
 ===================
