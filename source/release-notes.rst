@@ -40,8 +40,8 @@ Feature Details
 * Features supported & Celadon Upstreamed fixes in this release
 
                 * AOSP Version upgraded to r_46
-				* Chromium Guest Kernel upgraded to 5.4.150
-				* Security Patch & ASP updated to “September '22”
+		* Chromium Guest Kernel upgraded to 5.4.150
+		* Security Patch & ASP updated to “September'22”
                 * Qemu version kept in 4.2 same upgraded in celadon release to 6.0
                 * Android VM Booting issue
 
@@ -100,10 +100,16 @@ Validation results
 
 Stable Releases (IoT) build running in GVT-d mode has been validated on Comet Lake(CML), Tiger Lake(TGL), and Elkhart Lake(EHL) Intel® platforms in the following function domains. Validation cycles are performed on GMS user signed widevine enabled image as required by google certification requirements
 
-.. figure:: stable-release_iot/images/sep22_Validation_Result2.png
-    :align: right
-    :width: 750px 
 
+.. figure:: stable-release_iot/images/sep22_Validation_Result2.png
+    :align: "right"
+    :width: 750px 
+    
+    <right>
+    <img src="stable-release_iot/images/sep22_Validation_Result2.png">
+    </right>
+    
+    <img align="right" width="80" height="70" src="stable-release_iot/images/sep22_Validation_Result2.png">
 
 CIV_02.22.01.12_A11
 ===================
