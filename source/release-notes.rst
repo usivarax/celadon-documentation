@@ -41,11 +41,11 @@ Feature Details
 
                 * AOSP Version upgraded to r_46
 		* Chromium Guest Kernel upgraded to 5.4.150
-		* Security Patch & ASP updated to “September'22”
+		* Security Patch & ASB updated to “September'22”
 
 Known issues
 ------------
--Nil- [ All known issues are fixed from previoues Release ]
+-Nil- [ All known issues from previoues Release are fixed in this release ]
 
 Where to find the release
 -------------------------
