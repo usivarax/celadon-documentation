@@ -26,12 +26,7 @@ CIV_03.22.03.37_A11
 Intended audience
 -----------------
 
-* Open Source Community who has subscribed to celadon@lists.01.org
-
-Customer support
-----------------
-
-* subscribe/unsubscribe celadon mailing list using : https://lists.01.org/postorius/lists/celadon.lists.01.org/
+* Celadon open Source Community
 
 Introduction
 ------------
