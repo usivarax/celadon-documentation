@@ -45,7 +45,7 @@ Known issues
 Where to find the release
 -------------------------
 
-* Manifest Link: https://github.com/projectceladon/manifest/blob/tmp_master/stable-build/CIV_03.22.03.37_A11.xml[Draft]
+* Manifest Link: https://github.com/projectceladon/manifest/blob/master/stable-build/CIV_03.22.03.37_A11.xml
 
 Host Kernel Release configuration
 ---------------------------------
